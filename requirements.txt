@@ -1,0 +1,12 @@
+python-dotenv==1.0.1
+pydantic==2.7.4
+typing-extensions==4.12.2
+langchain==0.3.7
+langchain-core==0.3.19
+langchain-community==0.3.7
+langchain-groq --upgrade
+tavily-python==0.3.3
+langgraph==0.2.24
+streamlit
+langsmith
+
