@@ -1,8 +1,8 @@
 # 📧 MailGenie
 
-MailGenie is a multi-tool agentic chatbot built using LangGraph that intelligently routes user queries across different execution paths including direct LLM responses, real-time web search, and automated email drafting.
+MailGenie is a multi-tool agentic chatbot built using LangGraph that intelligently routes user queries across different execution paths including direct LLM responses, real-time web search, and automated email generation and sending.
 
-The system demonstrates practical implementation of tool-augmented AI agents with routing logic, multi-session memory, and observability using LangSmith.
+The system demonstrates practical implementation of tool-augmented AI agents with intelligent routing logic, multi-session memory, and human-in-the-loop workflows that collect missing information step by step before executing actions. It also includes observability and tracing using LangSmith for monitoring and debugging agent behavior.
 
 ---
 
