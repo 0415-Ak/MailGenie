@@ -6,7 +6,7 @@ langchain-core==0.3.19
 langchain-community==0.3.7
 langchain-groq 
 tavily-python==0.3.3
-langgraph==0.2.24
+langgraph==1.0.8
 streamlit
 langsmith
 
