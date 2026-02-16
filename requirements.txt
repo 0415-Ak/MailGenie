@@ -2,7 +2,7 @@ python-dotenv==1.0.1
 pydantic==2.7.4
 typing-extensions==4.12.2
 langchain==0.3.7
-langchain-core==0.3.19
+langchain-core==1.2.12
 langchain-community==0.3.7
 langchain-groq 
 tavily-python==0.3.3
