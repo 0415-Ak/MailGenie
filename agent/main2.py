@@ -6,6 +6,10 @@ from tools.email_sender import send_email
 from llms import executor_llm
 from utils.json_parser import extract_json
 from langchain_core.messages import SystemMessage
+import os
+
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+logo_path = os.path.join(BASE_DIR, "logo.png")
 
 st.set_page_config(
     page_title="MailGenie AI",
@@ -15,7 +19,7 @@ st.set_page_config(
 col1, col2 = st.columns([1, 6])
 
 with col1:
-    st.image("logo.png", width=120)
+    st.image(logo_path, width=120)
 
 with col2:
     st.title("MailGenie AI")
