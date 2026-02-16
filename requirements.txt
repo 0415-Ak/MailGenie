@@ -3,7 +3,6 @@ langchain==0.3.7
 langchain-community==0.3.7
 langchain-groq==1.1.2
 langgraph==1.0.8
-langsmith==0.7.1
 numpy==1.26.4
 pydantic==2.7.4
 python-dotenv==1.0.1
