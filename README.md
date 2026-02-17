@@ -76,7 +76,7 @@ The system uses LangGraph to manage state transitions and maintain structured co
 
 ```bash
 git clone https://github.com/0415-Ak/MailGenie.git
-cd mailforge-ai
+cd AGENTIC_AI_PROJECT
 ```
 
 ### 2️⃣ Create Virtual Environment
