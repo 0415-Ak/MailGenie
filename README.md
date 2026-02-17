@@ -6,6 +6,13 @@ The system demonstrates practical implementation of tool-augmented AI agents wit
 
 ---
 
+## 🎥 Project Demo
+
+Click the image below to watch the working demo:
+
+[![Watch the Demo](demo-thumbnail.png)](https://drive.google.com/file/d/1LwjdDvwfWgJyIcQ7xOCZBKdxrj-El4qZ/view?usp=drive_link)
+
+
 ## 🚀 Features
 
 ### 🔹 Intelligent Query Routing
